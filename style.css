@@ -1,0 +1,309 @@
+body{
+    margin: 0px;
+}
+#nav {
+    display: flex;
+    background-color: rgb(12, 61, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+#table {
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.td {
+    width: 30px;
+    height: 15px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+#td1 {
+    background-color: red;
+}
+
+#td2 {
+    background-color: blue;
+}
+
+#td3 {
+    background-color: green;
+}
+
+#td4 {
+    background-color: orange;
+}
+
+#td5 {
+    background-color: purple;
+}
+
+#td6 {
+    background-color: pink;
+}
+
+#td7 {
+    background-color: yellow;
+}
+
+#td8 {
+    background-color: brown;
+}
+
+#td9 {
+    background-color: black;
+}
+
+#td10 {
+    background-color: white;
+}
+
+#td11 {
+    background-color: chartreuse;
+}
+
+#td12 {
+    background-color: tomato;
+}
+
+#td13 {
+    background-color: orangered;
+}
+
+#td14 {
+    background-color: gray;
+}
+
+#td15 {
+    background-color: skyblue;
+}
+
+#td16 {
+    background-color: aqua;
+}
+
+#td1b {
+    background-color: red;
+}
+
+#td2b {
+    background-color: blue;
+}
+
+#td3b {
+    background-color: green;
+}
+
+#td4b {
+    background-color: orange;
+}
+
+#td5b {
+    background-color: purple;
+}
+
+#td6b {
+    background-color: pink;
+}
+
+#td7b {
+    background-color: yellow;
+}
+
+#td8b {
+    background-color: brown;
+}
+
+#td9b {
+    background-color: black;
+}
+
+#td10b {
+    background-color: white;
+}
+
+#td11b {
+    background-color: chartreuse;
+}
+
+#td12b {
+    background-color: tomato;
+}
+
+#td13b {
+    background-color: orangered;
+}
+
+#td14b {
+    background-color: gray;
+}
+
+#td15b {
+    background-color: skyblue;
+}
+
+#td16b {
+    background-color: aqua;
+}
+
+li {
+    list-style-type: none;
+}
+
+#bold {
+    font-size: 25px;
+    color: #fff;
+}
+
+#italic {
+    font-size: 25px;
+    padding-left: 5px;
+    color: #fff;
+}
+
+#underline {
+    font-size: 25px;
+    padding-left: 5px;
+    color: #fff;
+}
+
+#left {
+    font-size: 25px;
+    color: #fff;
+}
+
+#center {
+    font-size: 25px;
+    padding-left: 5px;
+    color: #fff;
+}
+
+#right {
+    font-size: 25px;
+    padding-left: 5px;
+    color: #fff;
+}
+
+.up {
+    margin-top: 30px;
+}
+
+.ups {
+    margin-top: 15px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+select {
+    border: none;
+    font-size: 15px;
+    color: white;
+    background-color: orangered;
+    font-weight: bold;
+    width: 150px;
+    padding-left: 5px;
+}
+
+.tdd {
+    width: 70px;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+}
+
+.sames {
+    margin-left: 20px;
+}
+
+.same {
+    margin-left: 32px;
+}
+
+#cc {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#bb {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#text-style{
+    width: 1366px;
+    height: 521px;
+    background-color: rgb(12, 61, 0);
+}
+#text{
+    width: 1290px;
+    height: 490px;
+    margin-left: 12px;
+    margin-top: 9px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* HOVER */
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+select:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#bold:hover{
+    color: black;
+}
+#italic:hover{
+    color: black;
+}
+#underline:hover{
+    color: black;
+}
+#left:hover{
+    color: black;
+}
+#center:hover{
+    color: black;
+}
+#right:hover{
+    color: black;
+}
+#upper:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#lower:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#capital:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#text:hover{
+    border: 3px solid black;
+}
